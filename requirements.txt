@@ -1,0 +1,4 @@
+spacy>=3.7
+streamlit>=1.40
+pandas
+pypdf
